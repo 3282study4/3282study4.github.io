@@ -12,7 +12,7 @@ window.others = {
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Mary",
-        "text": "Hello! I am Mary (not the little lamb). I am 19 years old, currently studying in NUS as a Year 1 Psychology Major. I am an anime otaku, and I am proud to declare that I managed to finish watching all seasons of Bleach within 3 days! Besides that, I love to draw and do arts and craft!.",
+        "text": "Hello! I am Mary (not the little lamb). I am 19 years old, currently studying in NUS as a Year 1 Psychology Major. I am an anime otaku, and I am proud to declare that I managed to finish watching all seasons of Bleach within 3 days! Besides that, I love to draw and do arts and craft!",
         "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
       },
       {
@@ -60,7 +60,7 @@ window.others = {
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "Hi, I’m Heather. I’m 18 and I own a horse. I live in Tollesbury, a village in England on the Essex Coast. I just got my dream job, working with horses and children with learning disabilities. During my free time (especially during winter), I love to bake and try new recipes. My sweet tooth is known throughout the village! .",
+        "text": "Hi, I’m Heather. I’m 18 and I own a horse. I live in Tollesbury, a village in England on the Essex Coast. I just got my dream job, working with horses and children with learning disabilities. During my free time (especially during winter), I love to bake and try new recipes. My sweet tooth is known throughout the village!",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
